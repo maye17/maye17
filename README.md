@@ -33,8 +33,15 @@ I’m a tech professional with over 12 years of experience in project management
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 
-- **Agile Methodologies**: Scrum (Certified PO), Kanban
-- **Project Management Tools**: Jira, Taiga, Trello, OpenProject
+- **Agile Methodologies**: 
+  ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) (Certified PO)
+  ![Kanban](https://img.shields.io/badge/Kanban-0078D4?style=flat&logo=kanban&logoColor=white)
+
+- **Project Management Tools**: 
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+  ![Taiga](https://img.shields.io/badge/Taiga-58656D?style=flat&logo=taiga&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+  ![OpenProject](https://img.shields.io/badge/OpenProject-4B9F3D?style=flat&logo=openproject&logoColor=white)
 
 
 ### Key Experience 💼
