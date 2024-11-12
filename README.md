@@ -57,7 +57,7 @@ I’m a tech professional with over 12 years of experience in project management
 - **Power Builder and SAP Integrations**: Managed and led the integration of Power Builder-developed applications with SAP systems, ensuring smooth data flow and compatibility.
 
 ### Certifications & Education 🎓
--System Engineer
+- System Engineer
 - Diploma in Project Management
 - Product Owner (PO) Certification in SCRUM
 - Certification in Kanban
