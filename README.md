@@ -3,9 +3,11 @@
 I’m a tech professional with over 12 years of experience in project management, systems integration, data migration, and software development. I specialize in agile project administration, infrastructure migration, and full-stack application optimization.
 
 ### Technologies & Tools 🛠️
-- **Languages**: JavaScript, C#, .NET, SQL
-- **Frontend**: React, Nuxt (2.18.1), Angular
-- **Backend**: Node.js (18.18.2), Laravel
+- **Languages**: HTML, CSS, JavaScript, C#, .NET, SQL,![Uploading image.png…]()
+ Bootstrap
+- **Frontend**:![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+, Nuxt (2.18.1), Angular, Vite
+- **Backend**: Node.js (18.18.2), ExpressJs, Laravel, Java, Spring
 - **Databases**: MySQL, SQL Server
 - **Infrastructure & DevOps**: Docker, Azure DevOps
 - **Agile Methodologies**: Scrum (Certified PO), Kanban
